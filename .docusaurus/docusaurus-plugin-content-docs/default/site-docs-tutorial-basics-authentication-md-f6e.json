@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/authentication",
+  "title": "🔐 Authentication/Authorization",
+  "description": "📋 Overview",
+  "source": "@site/docs/tutorial-basics/authentication.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/authentication",
+  "permalink": "/docs/tutorial-basics/authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/authentication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configure Authorization",
+    "permalink": "/docs/tutorial-basics/authorization"
+  },
+  "next": {
+    "title": "🌐 How to Call an Open API",
+    "permalink": "/docs/tutorial-basics/open-api"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "List of Modules/Seller/README",
+  "title": "Seller Module",
+  "description": "🚧 Coming Soon 🚧",
+  "source": "@site/docs/List of Modules/Seller/README.md",
+  "sourceDirName": "List of Modules/Seller",
+  "slug": "/List of Modules/Seller/",
+  "permalink": "/docs/List of Modules/Seller/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/List of Modules/Seller/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pharmacy Module",
+    "permalink": "/docs/List of Modules/Pharmacy/"
+  }
+}

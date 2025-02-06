@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/open-api",
+  "title": "🌐 How to Call an Open API",
+  "description": "📋 Overview",
+  "source": "@site/docs/tutorial-basics/open-api.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/open-api",
+  "permalink": "/docs/tutorial-basics/open-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/open-api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔐 Authentication/Authorization",
+    "permalink": "/docs/tutorial-basics/authentication"
+  },
+  "next": {
+    "title": "Contact Developer Support",
+    "permalink": "/docs/tutorial-basics/contact-support"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/service-region",
+  "title": "🌍 Service Region and App Type",
+  "description": "📋 Overview",
+  "source": "@site/docs/tutorial-basics/service-region.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/service-region",
+  "permalink": "/docs/tutorial-basics/service-region",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/service-region.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contact Developer Support",
+    "permalink": "/docs/tutorial-basics/contact-support"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/docs/category/api-reference"
+  }
+}

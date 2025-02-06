@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api-reference/pharmacy/order/v1.pharmacy.get-order-detail",
+              "path": "/docs/api-reference/pharmacy/order/v1.pharmacy.get-order-detail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-reference/pharmacy/order/v1.pharmacy.get-orders",
+              "path": "/docs/api-reference/pharmacy/order/v1.pharmacy.get-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-reference/pharmacy/product/v1.pharmacy.get-products",
+              "path": "/docs/api-reference/pharmacy/product/v1.pharmacy.get-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-reference/pharmacy/profile/v1.pharmacy.get-profile",
+              "path": "/docs/api-reference/pharmacy/profile/v1.pharmacy.get-profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "List of Modules/Pharmacy/pharmacy",
+              "path": "/docs/List of Modules/Pharmacy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "List of Modules/README",
+              "path": "/docs/List of Modules/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "List of Modules/Seller/README",
+              "path": "/docs/List of Modules/Seller/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/authentication",
+              "path": "/docs/tutorial-basics/authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/authorization",
+              "path": "/docs/tutorial-basics/authorization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/contact-support",
+              "path": "/docs/tutorial-basics/contact-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/credentials",
+              "path": "/docs/tutorial-basics/credentials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/getting-started",
+              "path": "/docs/tutorial-basics/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/open-api",
+              "path": "/docs/tutorial-basics/open-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/scopes",
+              "path": "/docs/tutorial-basics/scopes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/service-region",
+              "path": "/docs/tutorial-basics/service-region",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/quick-start-guide",
+              "path": "/docs/category/quick-start-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/api-reference",
+              "path": "/docs/category/api-reference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/pharmacy-apis",
+              "path": "/docs/category/pharmacy-apis",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

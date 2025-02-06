@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/pharmacy/product/v1.pharmacy.get-products",
+  "title": "v1.pharmacy.get-products",
+  "description": "📄 Description",
+  "source": "@site/docs/api-reference/pharmacy/product/v1.pharmacy.get-products.md",
+  "sourceDirName": "api-reference/pharmacy/product",
+  "slug": "/api-reference/pharmacy/product/v1.pharmacy.get-products",
+  "permalink": "/docs/api-reference/pharmacy/product/v1.pharmacy.get-products",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-reference/pharmacy/product/v1.pharmacy.get-products.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "v1.pharmacy.get-order-detail",
+    "permalink": "/docs/api-reference/pharmacy/order/v1.pharmacy.get-order-detail"
+  },
+  "next": {
+    "title": "List of Modules",
+    "permalink": "/docs/List of Modules/"
+  }
+}

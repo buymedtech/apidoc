@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/scopes",
+  "title": "Registering Scopes",
+  "description": "Introduction",
+  "source": "@site/docs/tutorial-basics/scopes.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/scopes",
+  "permalink": "/docs/tutorial-basics/scopes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/scopes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Credentials Guide",
+    "permalink": "/docs/tutorial-basics/credentials"
+  },
+  "next": {
+    "title": "Configure Authorization",
+    "permalink": "/docs/tutorial-basics/authorization"
+  }
+}

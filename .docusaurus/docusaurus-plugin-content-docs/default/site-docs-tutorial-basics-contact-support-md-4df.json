@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/contact-support",
+  "title": "Contact Developer Support",
+  "description": "Need Technical Assistance?",
+  "source": "@site/docs/tutorial-basics/contact-support.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/contact-support",
+  "permalink": "/docs/tutorial-basics/contact-support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/contact-support.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 How to Call an Open API",
+    "permalink": "/docs/tutorial-basics/open-api"
+  },
+  "next": {
+    "title": "🌍 Service Region and App Type",
+    "permalink": "/docs/tutorial-basics/service-region"
+  }
+}

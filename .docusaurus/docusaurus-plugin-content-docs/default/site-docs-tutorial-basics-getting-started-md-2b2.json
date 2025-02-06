@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/getting-started",
+  "title": "Getting Started",
+  "description": "Become a Developer",
+  "source": "@site/docs/tutorial-basics/getting-started.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/getting-started",
+  "permalink": "/docs/tutorial-basics/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start Guide",
+    "permalink": "/docs/category/quick-start-guide"
+  },
+  "next": {
+    "title": "API Credentials Guide",
+    "permalink": "/docs/tutorial-basics/credentials"
+  }
+}
