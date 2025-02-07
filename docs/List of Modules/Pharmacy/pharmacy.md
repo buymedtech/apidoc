@@ -11,46 +11,49 @@ The Pharmacy Module provides comprehensive features for managing pharmacy inform
 Manage user personal information and shipping addresses.
 
 #### Scope
+
 - `pharmacy:profile:read`: Allows viewing personal information and shipping addresses.
 
 #### APIs
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/v1/pharmacy/profile` | Retrieve user profile information. |
-| GET | `/api/v1/pharmacy/addresses` | Retrieve the list of user's shipping addresses. |
+| Method | Endpoint                     | Description                                     |
+| ------ | ---------------------------- | ----------------------------------------------- |
+| GET    | `/api/v1/pharmacy/profile`   | Retrieve user profile information.              |
+| GET    | `/api/v1/pharmacy/addresses` | Retrieve the list of user's shipping addresses. |
 
 ### 2. Product Management
 
 Search, filter, and view detailed product information.
 
 #### Scope
+
 - `pharmacy:product:read`: Allows searching, filtering, and viewing product information.
 
 #### APIs
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/v1/pharmacy/products` | Retrieve a list of products with search parameters, pagination, and filtering. |
-| GET | `/api/v1/pharmacy/categories` | Retrieve a list of product categories. |
-| GET | `/api/v1/pharmacy/manufactures` | Retrieve a list of product manufacturers. |
-| GET | `/api/v1/pharmacy/products/{slug}` | Retrieve product details by slug. |
-| GET | `/api/v1/pharmacy/products/{id}` | Retrieve product details by ID. |
-| GET | `/api/v1/pharmacy/search` | Search for products based on keywords. |
+| Method | Endpoint                           | Description                                                                    |
+| ------ | ---------------------------------- | ------------------------------------------------------------------------------ |
+| GET    | `/api/v1/pharmacy/products`        | Retrieve a list of products with search parameters, pagination, and filtering. |
+| GET    | `/api/v1/pharmacy/categories`      | Retrieve a list of product categories.                                         |
+| GET    | `/api/v1/pharmacy/manufactures`    | Retrieve a list of product manufacturers.                                      |
+| GET    | `/api/v1/pharmacy/products/{slug}` | Retrieve product details by slug.                                              |
+| GET    | `/api/v1/pharmacy/products/{id}`   | Retrieve product details by ID.                                                |
+| GET    | `/api/v1/pharmacy/search`          | Search for products based on keywords.                                         |
 
 ### 3. Order Management
 
 Manage user orders.
 
 #### Scope
+
 - `pharmacy:order:read`: Allows viewing order history and details.
 
 #### APIs
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/v1/pharmacy/orders` | Retrieve a list of the user's orders. |
-| GET | `/api/v1/pharmacy/order` | Retrieve order details by ID. |
+| Method | Endpoint                  | Description                           |
+| ------ | ------------------------- | ------------------------------------- |
+| GET    | `/api/v1/pharmacy/orders` | Retrieve a list of the user's orders. |
+| GET    | `/api/v1/pharmacy/order`  | Retrieve order details by ID.         |
 
 ### Notes
 
@@ -58,4 +61,4 @@ Manage user orders.
 - **Authentication**: All APIs require authentication via AccessToken.
 - **Registering Scopes**: To register scopes for your application, follow the steps outlined in the [How to Register Scopes](../../tutorial-basics/scopes.md) guide.
 
-For detailed API documentation, please refer to the [API Reference](../../api-reference/pharmacy/order) section. 
+For detailed API documentation, please refer to the [API Reference](/docs/category/pharmacy-apis) section.

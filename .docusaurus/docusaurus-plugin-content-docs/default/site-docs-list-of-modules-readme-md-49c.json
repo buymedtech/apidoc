@@ -1,0 +1,24 @@
+{
+  "id": "list-of-modules/README",
+  "title": "List of Modules",
+  "description": "Welcome to our modules documentation. Here you can find detailed information about each module in our system:",
+  "source": "@site/docs/list-of-modules/README.md",
+  "sourceDirName": "list-of-modules",
+  "slug": "/list-of-modules/",
+  "permalink": "/docs/list-of-modules/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/list-of-modules/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "v1.pharmacy.get-products",
+    "permalink": "/docs/api-reference/pharmacy/product/v1.pharmacy.get-products"
+  },
+  "next": {
+    "title": "Pharmacy Module",
+    "permalink": "/docs/list-of-modules/Pharmacy/"
+  }
+}

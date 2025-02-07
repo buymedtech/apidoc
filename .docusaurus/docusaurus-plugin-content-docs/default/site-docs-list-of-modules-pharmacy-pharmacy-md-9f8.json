@@ -1,0 +1,20 @@
+{
+  "id": "list-of-modules/Pharmacy/pharmacy",
+  "title": "Pharmacy Module",
+  "description": "Provides APIs to manage pharmacy-related data.",
+  "source": "@site/docs/list-of-modules/Pharmacy/pharmacy.md",
+  "sourceDirName": "list-of-modules/Pharmacy",
+  "slug": "/list-of-modules/Pharmacy/",
+  "permalink": "/docs/list-of-modules/Pharmacy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/list-of-modules/Pharmacy/pharmacy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List of Modules",
+    "permalink": "/docs/list-of-modules/"
+  }
+}
