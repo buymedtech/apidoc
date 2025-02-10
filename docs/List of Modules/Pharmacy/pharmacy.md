@@ -6,7 +6,7 @@ Provides APIs to manage pharmacy-related data.
 
 The Pharmacy Module provides comprehensive features for managing pharmacy information, products, orders, shopping carts, notifications, invoices, wishlists, customer support, product reviews, and data analytics. Below is a detailed breakdown of each section:
 
-### 1. Profile Management
+### 1. Profile Management 👤
 
 Manage user personal information and shipping addresses.
 
@@ -21,7 +21,7 @@ Manage user personal information and shipping addresses.
 | GET    | `/api/v1/pharmacy/profile`   | Retrieve user profile information.              |
 | GET    | `/api/v1/pharmacy/addresses` | Retrieve the list of user's shipping addresses. |
 
-### 2. Product Management
+### 2. Product Management 📦
 
 Search, filter, and view detailed product information.
 
@@ -40,7 +40,7 @@ Search, filter, and view detailed product information.
 | GET    | `/api/v1/pharmacy/products/{id}`   | Retrieve product details by ID.                                                |
 | GET    | `/api/v1/pharmacy/search`          | Search for products based on keywords.                                         |
 
-### 3. Order Management
+### 3. Order Management 📋
 
 Manage user orders.
 

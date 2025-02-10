@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 🔐 Authentication/Authorization
+# Authentication/Authorization
 
 ## 📋 Overview
 

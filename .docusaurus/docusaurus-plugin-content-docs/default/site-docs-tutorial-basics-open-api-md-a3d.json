@@ -1,6 +1,6 @@
 {
   "id": "tutorial-basics/open-api",
-  "title": "🌐 How to Call an Open API",
+  "title": "How to Call an Open API",
   "description": "📋 Overview",
   "source": "@site/docs/tutorial-basics/open-api.md",
   "sourceDirName": "tutorial-basics",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🔐 Authentication/Authorization",
+    "title": "Authentication/Authorization",
     "permalink": "/docs/tutorial-basics/authentication"
   },
   "next": {

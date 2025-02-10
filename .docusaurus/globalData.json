@@ -91,6 +91,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-basics/try-sample-integration",
+              "path": "/docs/tutorial-basics/try-sample-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/quick-start-guide",
               "path": "/docs/category/quick-start-guide",
               "sidebar": "tutorialSidebar"

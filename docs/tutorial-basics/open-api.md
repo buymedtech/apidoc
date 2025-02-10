@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# 🌐 How to Call an Open API
+# How to Call an Open API
 
 
 ## 📋 Overview

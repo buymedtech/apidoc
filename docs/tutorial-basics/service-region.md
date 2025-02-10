@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# 🌍 Service Region and App Type
+# Service Region and App Type
 
 ## 📋 Overview
 
@@ -40,11 +40,18 @@ GET /vn/pharmacy/products
 - Status: 🚧 Not yet open
 - Currently under development
 
-### Thailand (TH) 🇹��
+### Thailand (TH) 🇹🇭
 > 🔜 Coming Soon
 
 ### Cambodia (KH) 🇰🇭
 > 🔜 Coming Soon
+
+### Status Icons
+| Icon | Meaning |
+|------|----------|
+| ✅ | Active and available |
+| 🚧 | Under development |
+| 🔜 | Coming soon |
 
 ## 🚀 New Region/App Type Launch Process
 
@@ -71,13 +78,6 @@ When expanding to a new service region or adding a new app type, we follow these
    - Provide support
 
 ## ℹ️ Notes
-
-### Status Icons
-| Icon | Meaning |
-|------|----------|
-| ✅ | Active and available |
-| 🚧 | Under development |
-| 🔜 | Coming soon |
 
 :::tip Important
 Each Service Region has its own list of App Types, carefully tailored to meet specific market needs and requirements.

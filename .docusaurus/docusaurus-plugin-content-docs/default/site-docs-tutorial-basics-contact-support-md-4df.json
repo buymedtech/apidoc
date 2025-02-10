@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌐 How to Call an Open API",
+    "title": "How to Call an Open API",
     "permalink": "/docs/tutorial-basics/open-api"
   },
   "next": {
-    "title": "🌍 Service Region and App Type",
+    "title": "Service Region and App Type",
     "permalink": "/docs/tutorial-basics/service-region"
   }
 }

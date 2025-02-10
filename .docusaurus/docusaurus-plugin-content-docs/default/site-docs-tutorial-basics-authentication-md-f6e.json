@@ -1,6 +1,6 @@
 {
   "id": "tutorial-basics/authentication",
-  "title": "🔐 Authentication/Authorization",
+  "title": "Authentication/Authorization",
   "description": "📋 Overview",
   "source": "@site/docs/tutorial-basics/authentication.md",
   "sourceDirName": "tutorial-basics",
@@ -21,7 +21,7 @@
     "permalink": "/docs/tutorial-basics/authorization"
   },
   "next": {
-    "title": "🌐 How to Call an Open API",
+    "title": "How to Call an Open API",
     "permalink": "/docs/tutorial-basics/open-api"
   }
 }

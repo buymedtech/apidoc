@@ -1,6 +1,6 @@
 {
   "id": "tutorial-basics/service-region",
-  "title": "🌍 Service Region and App Type",
+  "title": "Service Region and App Type",
   "description": "📋 Overview",
   "source": "@site/docs/tutorial-basics/service-region.md",
   "sourceDirName": "tutorial-basics",
@@ -21,7 +21,7 @@
     "permalink": "/docs/tutorial-basics/contact-support"
   },
   "next": {
-    "title": "API Reference",
-    "permalink": "/docs/category/api-reference"
+    "title": "try-sample-integration",
+    "permalink": "/docs/tutorial-basics/try-sample-integration"
   }
 }

@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '687'),
+    component: ComponentCreator('/docs', '7cb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '196'),
+        component: ComponentCreator('/docs', '6ec'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1e0'),
+            component: ComponentCreator('/docs', 'b09'),
             routes: [
               {
                 path: '/docs/api-reference/pharmacy/order/v1.pharmacy.get-order-detail',
@@ -235,6 +235,12 @@ export default [
               {
                 path: '/docs/tutorial-basics/service-region',
                 component: ComponentCreator('/docs/tutorial-basics/service-region', '0aa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial-basics/try-sample-integration',
+                component: ComponentCreator('/docs/tutorial-basics/try-sample-integration', '585'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
